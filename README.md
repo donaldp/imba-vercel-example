@@ -1,4 +1,4 @@
-# Custom Build Example
+# Imba Example
 
 This directory is a brief example of using a Imba app that can be deployed with Vercel and zero configuration.
 
