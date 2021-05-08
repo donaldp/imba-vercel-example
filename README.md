@@ -1,6 +1,6 @@
 # Imba Example
 
-This directory is a brief example of using a Imba app that can be deployed with Vercel.
+This repo is a brief example of using an Imba app that can be deployed with Vercel.
 
 ## Deploy Your Own
 
