@@ -1,6 +1,7 @@
 {
   "name": "vercel-example",
   "scripts": {
+    "vercel-build": "node ./build.js",
     "start": "imba -w server.imba",
     "build": "imba build server.imba"
   },
@@ -15,6 +16,6 @@
   "description": "Imba setup for Vercel",
   "version": "1.0.0",
   "homepage": "https://github.com/donaldp/vercel-example",
-  "author": "Author Name (https://github.com/donaldp)",
+  "author": "Donald Pakkies (https://github.com/donaldp)",
   "license": "MIT"
 }
