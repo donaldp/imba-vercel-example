@@ -4,15 +4,15 @@ This directory is a brief example of using a Imba app that can be deployed with 
 
 ## Deploy Your Own
 
-Deploy your own Custom Built project with Vercel.
+Deploy your own Imba project with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/donaldp/imba-vercel-example)
 
 _Live Example: http://imba-vercel-example.vercel.app_
 
-### How We Created This Example
+### How I Created This Example
 
-To get started with Imba, you can use the [`imba create`](https://imba.io/language/getting-started/) command to initialize the project:
+To get started with Imba, you can use the [`npx imba create`](https://imba.io/language/getting-started/) command to initialize the project:
 
 ```shell
 $ npx imba create my-app
