@@ -6,7 +6,7 @@ This directory is a brief example of using a Imba app that can be deployed with 
 
 Deploy your own Custom Built project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/donaldp/https://github.com/donaldp/imba-vercel-example)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/donaldp/imba-vercel-example)
 
 _Live Example: http://imba-vercel-example.vercel.app_
 
