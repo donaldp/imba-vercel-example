@@ -3,7 +3,7 @@
   "scripts": {
     "vercel-build": "imbac api",
     "start": "imba -w server.imba",
-    "build": "imba build server.imba"
+    "build": "imba build server.imba & imbac api/*"
   },
   "dependencies": {
     "express": "^4.17.1",
