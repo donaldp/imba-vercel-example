@@ -1,7 +1,7 @@
 {
   "name": "vercel-example",
   "scripts": {
-    "vercel-build": "node ./build.js",
+    "vercel-build": "imbac api",
     "start": "imba -w server.imba",
     "build": "imba build server.imba"
   },
