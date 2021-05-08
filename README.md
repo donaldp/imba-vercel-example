@@ -8,7 +8,7 @@ Deploy your own Imba project with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/donaldp/imba-vercel-example)
 
-_Live Example: http://imba-vercel-example.vercel.app_
+_Live Example: https://imba-example.vercel.app_
 
 ### How I Created This Example
 
