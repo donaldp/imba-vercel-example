@@ -1,19 +1,19 @@
-# Getting Started
+# Custom Build Example
 
-This project was bootstrapped with [imba-base-template](https://github.com/imba/imba-base-template).
+This directory is a brief example of using a Imba app that can be deployed with Vercel and zero configuration.
 
-## Available Scripts
+## Deploy Your Own
 
-In the project directory, you can run:
+Deploy your own Custom Built project with Vercel.
 
-### `npm start`
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/donaldp/https://github.com/donaldp/imba-vercel-example)
 
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+_Live Example: http://imba-vercel-example.vercel.app_
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+### How We Created This Example
 
-### `npm run build`
+To get started with Imba, you can use the [`imba create`](https://imba.io/language/getting-started/) command to initialize the project:
 
-Builds the app for production to the `dist` folder.
+```shell
+$ npx imba create my-app
+```
