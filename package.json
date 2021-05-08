@@ -1,5 +1,5 @@
 {
-  "name": "vercel-example",
+  "name": "imba-vercel-example",
   "scripts": {
     "start": "imba -w app/index.html",
     "build": "imba build app/index.html"
@@ -10,10 +10,10 @@
   "devDependencies": {
     "@types/node": "^14.14.22"
   },
-  "repository": "donaldp/vercel-example",
+  "repository": "donaldp/imba-vercel-example",
   "description": "Imba setup for Vercel",
   "version": "1.0.0",
-  "homepage": "https://github.com/donaldp/vercel-example",
+  "homepage": "https://github.com/donaldp/imba-vercel-example",
   "author": "Donald Pakkies (https://github.com/donaldp)",
   "license": "MIT"
 }
