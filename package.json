@@ -2,7 +2,7 @@
   "name": "vercel-example",
   "scripts": {
     "start": "imba -w server.imba",
-    "build": "imba build server.imba & imbac api"
+    "build": "imbac api/*.imba"
   },
   "dependencies": {
     "express": "^4.17.1",
